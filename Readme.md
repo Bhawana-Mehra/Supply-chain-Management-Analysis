@@ -149,10 +149,10 @@ Summarizes the major business findings and translates them into actionable recom
 
 ## Dashboard Preview
 
-![Overview](screenshots/Overview.png)
-![Sales & Profitability](screenshots/Sales&Profitability.png)
-![Shipping & Delivery](screenshots/Shipping&Delivery.png)
-![Customer Insights](screenshots/Customer_Insights.png)
+![Overview](Screenshots/Overview.png)
+![Sales & Profitability](Screenshots/Sales&Profitability.png)
+![Shipping & Delivery](Screenshots/Shipping&Delivery.png)
+![Customer Insights](Screenshots/Customer_Insights.png)
 
 ## Key Findings & Recommendations
 
@@ -227,5 +227,5 @@ Supply-Chain-Management-Analysis/
 **Bhawana Mehra**  
  Data Analystics | SQL | Python | Power BI
 
-- [GitHub]:(https://github.com/Bhawana-Mehra)
+Github- [GitHub]:(https://github.com/Bhawana-Mehra)
 
